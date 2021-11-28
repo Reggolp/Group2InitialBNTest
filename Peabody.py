@@ -1,2 +1,3 @@
 !This is our python file
-print("need more cupcakes")
+demand = ("need more cupcakes")
+print(demand)
